@@ -89,7 +89,7 @@ long pauses (>1.5s): 5
 
 ## 🤘 Author
 
-Built by [Tomás Deluca](https://github.com/tomasdeluca1) — powered by every “eh” he said on camera.
+Built by [Tomás Deluca](https://github.com/tomasdeluca1) aka [Huevsite](https://x.com/_huevsite) — powered by every “eh” he said on camera.
 
 ---
 
